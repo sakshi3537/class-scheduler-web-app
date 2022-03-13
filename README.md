@@ -21,3 +21,5 @@ Tech Stack:
 6. JWT for Authentication
 7. Semantics UI for styling
 
+A preview can be checked here:
+https://class-scheduler-web-app.netlify.app/
